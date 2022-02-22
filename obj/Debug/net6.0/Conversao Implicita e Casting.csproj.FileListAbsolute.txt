@@ -1,0 +1,15 @@
+C:\Users\55629\Desktop\Conversao Implicita e Casting\bin\Debug\net6.0\Conversao Implicita e Casting.exe
+C:\Users\55629\Desktop\Conversao Implicita e Casting\bin\Debug\net6.0\Conversao Implicita e Casting.deps.json
+C:\Users\55629\Desktop\Conversao Implicita e Casting\bin\Debug\net6.0\Conversao Implicita e Casting.runtimeconfig.json
+C:\Users\55629\Desktop\Conversao Implicita e Casting\bin\Debug\net6.0\Conversao Implicita e Casting.dll
+C:\Users\55629\Desktop\Conversao Implicita e Casting\bin\Debug\net6.0\ref\Conversao Implicita e Casting.dll
+C:\Users\55629\Desktop\Conversao Implicita e Casting\bin\Debug\net6.0\Conversao Implicita e Casting.pdb
+C:\Users\55629\Desktop\Conversao Implicita e Casting\obj\Debug\net6.0\Conversao Implicita e Casting.csproj.AssemblyReference.cache
+C:\Users\55629\Desktop\Conversao Implicita e Casting\obj\Debug\net6.0\Conversao Implicita e Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55629\Desktop\Conversao Implicita e Casting\obj\Debug\net6.0\Conversao Implicita e Casting.AssemblyInfoInputs.cache
+C:\Users\55629\Desktop\Conversao Implicita e Casting\obj\Debug\net6.0\Conversao Implicita e Casting.AssemblyInfo.cs
+C:\Users\55629\Desktop\Conversao Implicita e Casting\obj\Debug\net6.0\Conversao Implicita e Casting.csproj.CoreCompileInputs.cache
+C:\Users\55629\Desktop\Conversao Implicita e Casting\obj\Debug\net6.0\Conversao Implicita e Casting.dll
+C:\Users\55629\Desktop\Conversao Implicita e Casting\obj\Debug\net6.0\ref\Conversao Implicita e Casting.dll
+C:\Users\55629\Desktop\Conversao Implicita e Casting\obj\Debug\net6.0\Conversao Implicita e Casting.pdb
+C:\Users\55629\Desktop\Conversao Implicita e Casting\obj\Debug\net6.0\Conversao Implicita e Casting.genruntimeconfig.cache
